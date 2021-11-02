@@ -13,7 +13,7 @@ trim_trailing_whitespace = true
 # Default indentation
 [*]
 indent_style = space
-indent_size = 2
+indent_size = 4
 
 # Python
 [*.py]
