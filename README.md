@@ -1,3 +1,3 @@
 # Sandbox
 
-For experimentation and learning.
+For private experimentation and learning.
